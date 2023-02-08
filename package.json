@@ -1,7 +1,7 @@
 {
   "name": "coin_tracker",
   "version": "0.1.0",
-  "homepage": "https://dustinryoo.github.io/coin_tracker",
+  "homepage": "https://dustinryoo.github.io/",
   "private": true,
   "dependencies": {
     "@tanstack/react-query": "^4.22.0",
@@ -17,6 +17,7 @@
     "@types/react-query": "^1.2.9",
     "@types/styled-components": "^5.1.26",
     "apexcharts": "^3.36.3",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.0",
     "react-dom": "^18.2.0",
@@ -53,8 +54,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }
